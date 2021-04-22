@@ -1,0 +1,12 @@
+*.nds
+*.srl
+*.cia
+*.3dsx
+*.smdh
+*.elf
+*.bin
+*.3ds
+build/
+.vscode/
+main.c
+logger.cpp
